@@ -1,6 +1,11 @@
 {
+<<<<<<< HEAD
   "name": "praticazao",
   "version": "1.0.3",
+=======
+  "name": "praticaszz",
+  "version": "1.0.2",
+>>>>>>> develop
   "description": "",
   "main": "index.js",
   "scripts": {
